@@ -1,0 +1,46 @@
+{
+  "center": {
+    "x": 323,
+    "y": 241
+  },
+  "radius_outer": 240,
+  "radius_inner": 73,
+  "pole0left": [
+    {"x": 317, "y": 167},
+    {"x": 297, "y": 2}
+  ],
+  "pole0right": [
+    {"x": 334, "y": 167},
+    {"x": 356, "y": 3}
+  ],
+  "pole1left": [
+    {"x": 390, "y": 272},
+    {"x": 539, "y": 341}
+  ],
+  "pole1right": [
+    {"x": 381, "y": 287},
+    {"x": 506, "y": 392}
+  ],
+  "pole2left": [
+    {"x": 263, "y": 283},
+    {"x": 124, "y": 383}
+  ],
+  "pole2right": [
+    {"x": 255, "y": 269},
+    {"x": 96, "y": 330}
+  ],
+  "lower_h": 55,
+  "lower_s": 3,
+  "lower_v": 41,
+  "upper_h": 91,
+  "upper_s": 216,
+  "upper_v": 255,
+  "kSizeGaussian": 5,
+  "sigma": 1.5,
+  "kSizeClose": 3,
+  "filterThresh": 20,
+  "poleDistThresh": 50,
+  "pruningMinThick": 6,
+  "pruningMaxThick": 22,
+  "bufSize": 75
+}
